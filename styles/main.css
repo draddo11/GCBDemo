@@ -17,6 +17,14 @@ body{
     color: rgb(189, 2, 2);
     
     }
+
+    .col-sm-12.d-flex.justify-content-between.sidetag{
+        width: 90%;
+    }
+
+    div#sidetag{
+        width: 90%;
+    }
     
     
     
